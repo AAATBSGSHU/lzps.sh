@@ -13,3 +13,6 @@ shut.
 lazygit isn't lazy
 it's a TUI that you have to navigate
 lzps is meant to be fast, minimal and super easy and lazy to use, and that's what it is
+
+### Pro Tip
+Use [ezsh](https://github.com/AAATBSGSHU/ezsh)to make using lzps even lazier and easier
