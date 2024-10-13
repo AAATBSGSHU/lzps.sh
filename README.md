@@ -13,8 +13,8 @@ lzps automatically uses 'main' as it's push branch, you can change this in the s
 
 ##### ok but what about lazygi-
 shut.
-lazygit isn't lazy
-it's a TUI that you have to navigate
+lazygit isn't lazy,
+it's a TUI that you have to navigate,
 lzps is meant to be fast, minimal and super easy and lazy to use, and that's what it is
 
 ### Pro Tip
