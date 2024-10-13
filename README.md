@@ -5,6 +5,8 @@
 
 -fwl | same as '--force-with-lease'
 
+commit message | alternative to using the prompt for a commit message
+
 ##### Important info
 lzps automatically uses 'main' as it's push branch, you can change this in the script if you wish to
 
